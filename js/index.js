@@ -12,7 +12,7 @@ const input = document.querySelector('input');
 input.addEventListener('keydown', function(e) {
   console.log(e.key);
 });
-
+//Demonstrate Triggering Events Listeners on DOM Nodes
 const input = document.querySelector('input')
  //Demonstrate Preventing the Default Behavior for DOM Nodes
 input.addEventListener('keydown', function(e) {
